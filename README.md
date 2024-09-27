@@ -1,1 +1,2 @@
-# my small scripts for stuff
+my small scripts for stuff
+![wallpaper](yellow.jpg)
