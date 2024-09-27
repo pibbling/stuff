@@ -1,4 +1,5 @@
-xrandr --output HDMI-A-0 --mode 1920x1080 --rate 239.96 --left-of eDP &
+xrandr --output HDMI-A-0 --mode 1920x1080 --rate 239.96 --left-of eDP --set TearFree on &
+xrandr --output eDP --mode 2880x1620 --rate 120.00 --set TearFree on &
 ~/.fehbg &
 picom &
 slstatus &
