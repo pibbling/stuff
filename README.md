@@ -1,1 +1,3 @@
-# my small scripts for stuff
+my personal small stuff
+
+![wallpaper](yellow.jpg)
