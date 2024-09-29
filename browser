@@ -1,2 +1,2 @@
 #!/bin/bash
-vopono -v exec --firewall iptables --provider protonvpn --server uk "librewolf"
+vopono -v exec --firewall iptables --provider protonvpn --server united_kingdom "librewolf"
