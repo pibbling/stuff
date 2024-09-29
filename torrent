@@ -1,0 +1,2 @@
+#!/bin/bash
+vopono -v exec --firewall iptables --provider protonvpn --server uk "qbittorrent"
