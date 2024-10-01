@@ -1,3 +1,3 @@
 my personal small stuff
 
-![wallpaper](yellow.jpg)
+![wallpaper](japan.jpg)
