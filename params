@@ -1,0 +1,2 @@
+amdgpu.pcie_gen_cap=0x40000 sysrq_always_enabled=1 thunderbolt.host_reset=false
+
