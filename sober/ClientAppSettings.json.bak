@@ -35,6 +35,5 @@
     "FIntFontSizePadding": "4",
     "FIntRenderGrassDetailStrands": "0",
     "FIntRenderShadowmapBias": "0",
-    "FLogNetwork": "7",
-    "FFlagDebugDisplayFPS": "True"
+    "FLogNetwork": "7"
 }

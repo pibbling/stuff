@@ -1,0 +1,13 @@
+[Unit]
+Description=Run fan.sh for gpu fan curve on startup
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/fan.sh
+Type=simple
+User=root
+Group=root
+StandardOutput=journal
+
+[Install]
+WantedBy=multi-user.target
