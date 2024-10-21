@@ -36,5 +36,6 @@
     "FIntRenderGrassDetailStrands": "0",
     "FIntRenderShadowmapBias": "0",
     "FLogNetwork": "7",
-    "FFlagDebugDisplayFPS": "True"
+    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+    "DFIntTaskSchedulerTargetFps": "9999"
 }
