@@ -1,0 +1,3 @@
+#!/bin/bash
+#vopono -v exec --firewall iptables --provider protonvpn --server united_kingdom "ayugram-desktop"
+vopono -v exec --firewall iptables --provider mullvad --server uk "ayugram-desktop"

@@ -35,5 +35,7 @@
     "FIntFontSizePadding": "4",
     "FIntRenderGrassDetailStrands": "0",
     "FIntRenderShadowmapBias": "0",
-    "FLogNetwork": "7"
+    "FLogNetwork": "7",
+    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+    "DFIntTaskSchedulerTargetFps": "9999"
 }
