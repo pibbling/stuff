@@ -45,5 +45,14 @@
     "FIntRobloxGuiBlurIntensity": "0",
     "FFlagErrorPromptResizesHeight": "False",
     "FFlagNewCameraControls": "True",
+    "FFlagRenderCheckThreading": "True",
+    "FFlagCoreGuiTypeSelfViewPresent": false,
+    "DFIntDebugFRMQualityLevelOverride": 1,
+    "DFFlagVoiceChat4": "False",
+    "FFlagChatTranslationEnableSystemMessage": "false",
+    "FFlagAdServiceEnabled": "False",
+    "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+    "DFFlagDebugPauseVoxelizer": "True",
     "DFIntS2PhysicsSenderRate": "10000"
 }
+
